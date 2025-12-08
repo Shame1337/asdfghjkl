@@ -1,0 +1,148 @@
+{
+  "warns": {
+    "8382126682": [
+      {
+        "reason": "Отправка ссылок",
+        "date": "2025-12-08T22:46:27.750271"
+      }
+    ]
+  },
+  "workers": {
+    "8536941434": {
+      "tag": "scmswagg",
+      "profits_day": 0,
+      "profits_month": 0,
+      "total": 0
+    }
+  },
+  "users": {
+    "8448344134": {
+      "username": "otsos_free",
+      "first_name": "чапман ^^ РЭД ## курю и подыхаю",
+      "last_name": "",
+      "last_seen": "2025-12-07T17:03:09.241668"
+    },
+    "8536941434": {
+      "username": "scmswagg",
+      "first_name": "Scally",
+      "last_name": "",
+      "last_seen": "2025-12-08T23:04:04.945644"
+    },
+    "8382126682": {
+      "username": "DecepSupport",
+      "first_name": "Decep Support",
+      "last_name": "",
+      "last_seen": "2025-12-08T23:04:45.742346"
+    },
+    "8394211394": {
+      "username": "Malenkayya10",
+      "first_name": "Гелька",
+      "last_name": "",
+      "last_seen": "2025-12-08T22:46:26.658352"
+    },
+    "8238414921": {
+      "username": "Veoleta2420",
+      "first_name": "Веолета",
+      "last_name": "",
+      "last_seen": "2025-12-08T22:46:27.564011"
+    },
+    "7953383041": {
+      "username": "Inviterbott",
+      "first_name": "...",
+      "last_name": "",
+      "last_seen": "2025-12-08T22:46:27.280174"
+    },
+    "809193060": {
+      "username": "befouI",
+      "first_name": "kayn",
+      "last_name": "",
+      "last_seen": "2025-12-08T22:46:27.403330"
+    },
+    "7036303003": {
+      "username": "nft148",
+      "first_name": "DOGMA",
+      "last_name": "",
+      "last_seen": "2025-12-08T23:03:31.406056"
+    }
+  },
+  "whispers": {
+    "8536941434_Decepteammain_1765117927.202837": {
+      "from": "scmswagg",
+      "to": "Decepteammain",
+      "message": "привет",
+      "timestamp": "2025-12-07T16:32:07.202837"
+    },
+    "8536941434_Decepteammain_1765118517.669781": {
+      "from": "scmswagg",
+      "to": "Decepteammain",
+      "message": "ку",
+      "timestamp": "2025-12-07T16:41:57.669781"
+    },
+    "8536941434_Decepteammain_1765118760.440121": {
+      "from": "scmswagg",
+      "to": "Decepteammain",
+      "message": "ку",
+      "timestamp": "2025-12-07T16:46:00.440121"
+    },
+    "8495992108_username_1765118967.84387": {
+      "from": "Decepteammain",
+      "to": "username",
+      "to_user_id": null,
+      "message": "арапр",
+      "timestamp": "2025-12-07T16:49:27.843870"
+    },
+    "8536941434_Decepteammain_1765119060.378549": {
+      "from": "scmswagg",
+      "to": "Decepteammain",
+      "to_user_id": null,
+      "message": "привет",
+      "timestamp": "2025-12-07T16:51:00.378549"
+    },
+    "8536941434_Decepteammain_1765119193.410489": {
+      "from": "scmswagg",
+      "to": "Decepteammain",
+      "to_user_id": null,
+      "message": "привет тест",
+      "timestamp": "2025-12-07T16:53:13.410489"
+    }
+  },
+  "command_cooldowns": {
+    "8536941434": {
+      "manuals": 1765137965.742157,
+      "mp": 1765120125.755502,
+      "info": 1765139107.136307,
+      "top": 1765137955.450714,
+      "ping": 1765137986.769351
+    },
+    "6831718861": {
+      "manuals": 1765121310.836013
+    },
+    "8382126682": {
+      "info": 1765138084.801158
+    }
+  },
+  "spam_counts": {
+    "8536941434": {
+      "count": 0,
+      "last_spam": 0
+    },
+    "6831718861": {
+      "count": 0,
+      "last_spam": 0
+    },
+    "8382126682": {
+      "count": 0,
+      "last_spam": 0
+    }
+  },
+  "last_bot_messages": {
+    "8382126682": {
+      "chat_id": -1003335947108,
+      "message_id": 197
+    },
+    "8536941434": {
+      "chat_id": -1003335947108,
+      "message_id": 199
+    }
+  }
+}
